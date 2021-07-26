@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q8yn4kIPFJUSuf0Bc1LrUXDKTNjVyDiSWQs59Bv/u9ZkNg2C971V8NtUJYEMNW+FE48vQOjQbnyKUGXcZOamDg==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Dev.io\\Rest web api core\\MinhaAPICompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samsung\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
